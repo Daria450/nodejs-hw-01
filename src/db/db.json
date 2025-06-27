@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "26f8c817-5612-4a66-8e72-f9779f9d6226",
+    "name": "Derrick Waters",
+    "phone": "(473) 625-8787",
+    "email": "Dolly74@gmail.com",
+    "job": "Customer Accounts Producer"
+  },
+  {
+    "id": "9138472e-1f94-46e4-a498-7bfc10e0fb66",
+    "name": "Ms. Leslie Bernier",
+    "phone": "720.964.6302 x5645",
+    "email": "Nettie.Wyman@gmail.com",
+    "job": "Future Creative Liaison"
+  },
+  {
+    "id": "d499fed0-4ee4-4d0c-8e5f-653b3f8df5f8",
+    "name": "Wanda Rutherford",
+    "phone": "398-990-8117 x52286",
+    "email": "Kurt_Schinner14@yahoo.com",
+    "job": "Chief Response Executive"
+  },
+  {
+    "id": "e19647f7-7477-4609-8228-112fad444ad9",
+    "name": "Arnold Greenfelder",
+    "phone": "1-896-376-5129 x151",
+    "email": "Shanel22@yahoo.com",
+    "job": "Chief Branding Officer"
+  }
+]
